@@ -1,0 +1,15 @@
+{
+  "name": "aibot",
+  "version": "1.0.0",
+  "description": "Slack bot support to jira",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Chashika Weerathunga",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "slackbots": "^1.1.0"
+  }
+}
